@@ -1,0 +1,22 @@
+
+LCSC.COM ordering info, check BOM for QTY
+
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0805FR-0756KL_C137509.html
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TDK-CGA4J2X7R2A104KT0Y0U_C342919.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-072R2L_C137327.html
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TDK-CGA4J3C0G2E472J125AA_C193083.html
+https://lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_Ymin-LKMD1152E150MF_C443246.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0805FR-072K2L_C114561.html
+https://lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_Nichicon-UHW1V471MPD_C136284.html
+https://lcsc.com/product-detail/Power-Inductors_CEC-Shenzhen-Zhenhua-Fu-Elec-SMRH74-221M-f_C241217.html
+https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_ON-Semiconductor-MBR1100RLG_C110906.html
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TDK-CGJ4C2C0G2A101JT000N_C508866.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-071RL_C137355.html
+https://lcsc.com/product-detail/Pin-Header-Female-Header_Ckmtw-Shenzhen-Cankemeng-C124375_C124375.html
+https://lcsc.com/product-detail/DC-DC-Converters_ON-Semiconductor-UC3843BVD1R2G_C231572.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0805FR-0722RL_C107702.html
+https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21C471JBANNNC_C28256.html
+https://lcsc.com/product-detail/MOSFET_ON-Semiconductor-FQD2N60CTM_C5386.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0805FR-071KL_C95781.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0805FR-0784K5L_C229022.html
+https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0805FR-075K1L_C84375.html
